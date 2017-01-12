@@ -2,3 +2,7 @@ body {
 	background: slategrey;
 	text-align: center;
 }
+
+.main-page {
+	margin: auto;
+}
